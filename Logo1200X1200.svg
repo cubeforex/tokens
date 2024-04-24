@@ -1,0 +1,22 @@
+<svg width="1200" height="1200" xmlns="http://www.w3.org/2000/svg" data-name="图层 1_复制">
+ <title>FBBANK.CC</title>
+ <defs>
+  <filter id="svg_1_blur">
+   <feGaussianBlur stdDeviation="0" in="SourceGraphic"/>
+  </filter>
+ </defs>
+ <g>
+  <title>Layer 1</title>
+  <g stroke="null" id="svg_5">
+   <path stroke="null" fill="#000000" opacity="undefined" d="m599.99999,600.00004c-335.78825,0 -607.77673,0 -607.77673,0c0,0 271.98848,0 607.77673,0c335.78825,0 607.77673,0 607.77673,0c0,0 -271.98848,0 -607.77673,0z" id="svg_2"/>
+   <g stroke="null" id="svg_4">
+    <ellipse stroke="#000000" fill="#000000" cx="599.99999" cy="600.00004" id="svg_3" rx="591.56242" ry="591.56242"/>
+    <g stroke="null" filter="url(#svg_1_blur)" id="svg_1">
+     <path stroke="null" fill="#10be98" opacity="NaN" d="m310.72806,195.3758l790.06578,337.71293l-644.26012,-29.90764" id="svg_13"/>
+     <path stroke="null" fill="#1ccd91" opacity="NaN" d="m309.48194,195.3758c0,0 133.33817,321.74373 132.09801,320.50265c1.24016,1.24108 -54.83664,527.50407 -56.0768,526.26299" id="svg_14"/>
+     <path stroke="null" fill="#28dd8a" opacity="NaN" d="m463.60743,525.19047c0,0 -74.3783,517.77433 -75.61197,516.53565c1.23368,1.23869 712.78591,-506.57847 711.5522,-507.81712" id="svg_15"/>
+    </g>
+   </g>
+  </g>
+ </g>
+</svg>
