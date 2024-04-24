@@ -1,0 +1,11 @@
+{
+ "name": "FBPAY",
+ "website": "https://www.fbpay.cc/buy?platform=TP",
+ "description": "FBPAY , the next-generation modular trustless payment application as your gateway for mass adoption! ",
+ "explorer": "https://www.oklink.com/xlayer/token/0x770f030fdbf63ebf1c939de8bcff8943c2c2d454",
+ "type": "ERC20",
+ "symbol": "FB",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x0A8c9FD739D7662479A6D70CAdc3124c6Bd31d0B"
+}
